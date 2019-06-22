@@ -19,5 +19,6 @@ def score_calc(input):
                 players[k] -= 1
     return players
 
+
 for e in inputs:
-    print (score_calc(e))
+    print(score_calc(e))
